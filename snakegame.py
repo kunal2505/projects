@@ -65,7 +65,7 @@ print("                      - NOW YOUR TURN -                    ")
 
 p1=input("YOUR'S TURN : Snake(s) Water(w) Gun(g) ? ")
 a=game(comp,p1)
-print("\n========> Compter Played:",comp)
+print("\n========> Computer Played:",comp)
 print("\n========> You Played:",p1,"\n")
 if a==None:
     print("MATCH TIED....")
