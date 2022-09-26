@@ -70,6 +70,6 @@ print("\n========> You Played:",p1,"\n")
 if a==None:
     print("MATCH TIED....")
 if a==True:
-    print("Player Wins the Game...")
+    print("Congratulations!,You won the Game...")
 if a==False:
     print("Opponent Wins....")    
